@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "8e1e827f-f20c-40f8-8203-534a99161890",
+      "name": "Dinkas Dev",
+      "email": "dev@example.com"
+    },
+    {
+      "id": "36191838-6c1c-4554-b560-439e6a56924a",
+      "name": "Sergio Ribeiro",
+      "email": "dev@example.com"
+    }
+  ]
+}
